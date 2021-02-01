@@ -8,3 +8,4 @@
 
 ### React
 - [实现一个简易rc-field-form表单组件](https://github.com/danarrr/source-learn/issues/3) --2021-01-30
+- [Redux实现原理，尝试实现React-redux](https://github.com/danarrr/source-learn/issues/4) --2021-02-01
